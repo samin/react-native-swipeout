@@ -42,7 +42,6 @@ backgroundColor | string | Yes      | '#dbddde' |
 close           | bool   | Yes      |           | close swipeout
 left            | array  | Yes      | []        | swipeout buttons on left
 onOpen          | func   | Yes      |           |
-onOpen          | func   | Yes      |           |
 onOpenedLeft    | func   | Yes      |           |
 onOpenedRight   | func   | Yes      |           |
 onClose         | func   | Yes      |           |
